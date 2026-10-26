@@ -48,7 +48,9 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 - Nov 5: Romans note "Let the Gospel create the question", all four accounts.
 - Nov 9: Behold Chapter One carousel ("Revelation Comes First"), all four accounts, with Chris as collaborator on Company 318 Instagram.
 - Nov 12: Romans note "Joined to Another", all four accounts.
-- Nov 16, 23, 30, Dec 7: Apostolic Architecture quote cards on Company 318 Instagram and The Gathering Facebook.
+- Nov 16, 23, 30, Dec 7: Apostolic Architecture quote cards on all four accounts (Leah's with her own captions).
+- Default from Oct 26: anything from Leah's books or classes also goes to her personal Instagram and Facebook,
+  with a caption in her voice and the Substack link in the first comment.
 - Open: Reels for the week of Nov 2 onward (from the Nov 1 Sunday message), Thursdays from Nov 19.
 
 ## Content library: available, used and on hold
