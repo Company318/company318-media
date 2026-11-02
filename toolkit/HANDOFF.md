@@ -51,6 +51,8 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 - Nov 16, 23, 30, Dec 7: Apostolic Architecture quote cards on all four accounts (Leah's with her own captions).
 - Default from Oct 26: anything from Leah's books or classes also goes to her personal Instagram and Facebook,
   with a caption in her voice and the Substack link in the first comment.
+- Nov 19: Romans 8 note "The Gospel Is Ultimate Reality" (week 8), all four accounts.
+- Week of Nov 2: no Sunday clips (Larry preached).
 - Open: Reels for the week of Nov 2 onward (from the Nov 1 Sunday message), Thursdays from Nov 19.
 
 ## Content library: available, used and on hold
@@ -69,6 +71,7 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 - Excerpts are word for word. Context labels (small caps above a quote) are Claude's words and help when a passage
   needs setting, for example "Adam and Eve in the garden".
 - Scripture on slides is always ESV, even where the manuscript quotes another translation.
+- Avoid stories that highlight Leah's ministry success (stadium events, large crowds, money that came in): she finds them self-promoting. Build excerpts around Scripture and the teaching instead.
 - Stories about Leah's children or family conflict stay off social media. Stories about other named people need
   their permission.
 - Book author order: Behold is Chris Berglund and Leah Ramirez (Chris first). Apostolic Architecture is Leah
