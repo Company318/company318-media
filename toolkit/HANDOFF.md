@@ -51,9 +51,16 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 - Nov 16, 23, 30, Dec 7: Apostolic Architecture quote cards on all four accounts (Leah's with her own captions).
 - Default from Oct 26: anything from Leah's books or classes also goes to her personal Instagram and Facebook,
   with a caption in her voice and the Substack link in the first comment.
+- Nov 4: "rename" AA quote card (moved from Nov 16), all four accounts.
+- Nov 16: Apostolic Architecture Chapter 8 carousel ("Intimacy Without Distance", photo cover), all four accounts.
 - Nov 19: Romans 8 note "The Gospel Is Ultimate Reality" (week 8), all four accounts.
 - Week of Nov 2: no Sunday clips (Larry preached).
 - Open: Reels for the week of Nov 2 onward (from the Nov 1 Sunday message), Thursdays from Nov 19.
+
+## Photos
+
+- toolkit/photos has portraits of Leah and Chris (Oct/Nov 2026). Chris approved use. Chris's photo has an AI-edited background: set instagramData.isAiGenerated true on any Instagram post that uses it.
+- Book covers use both photos side by side (c318art/build_photo_mock.py, mock A): Chris slightly larger, Leah slightly lower. Leah alone for Romans 5–8 and her own writing.
 
 ## Content library: available, used and on hold
 
