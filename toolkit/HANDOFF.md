@@ -59,7 +59,7 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 
 ## Photos
 
-- Nov 14, 2026: Leah has a NEW official photo (toolkit/photos/leah.png, seated; leah_closeup.png square). Use it on everything going forward. The old one is leah_2026-10_old.png; do not use it.
+- Nov 14, 2026: Leah has a NEW official photo (toolkit/photos/leah.png, seated; leah_closeup.png square). Use it on everything going forward. Its background is AI-generated: set instagramData.isAiGenerated true on any Instagram post that uses it. The old one is leah_2026-10_old.png; do not use it.
 
 - toolkit/photos has portraits of Leah and Chris (Oct/Nov 2026). Chris approved use. Chris's photo has an AI-edited background: set instagramData.isAiGenerated true on any Instagram post that uses it.
 - Book covers use both photos side by side (c318art/build_photo_mock.py, mock A): Chris slightly larger, Leah slightly lower. Leah alone for Romans 5–8 and her own writing (bs/build_parch_covers.py: framed photos on parchment; use leah_padded.png so her hair is not cut off). Photo covers go on carousel covers only, not quote cards or Reels.
