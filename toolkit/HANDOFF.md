@@ -74,6 +74,8 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 - Rule: the look follows where the content was born. A Sunday message from The Gathering keeps the Gathering look on every account (Leah IG/FB, Gathering FB, Company 318 IG); each caption explains the link (Company 318: "From Leah Ramirez's Sunday message at The Gathering in Colorado Springs...").
 - Leah's text-only Facebook posts perform well. Pattern: her text verbatim on FB with one graphic, link in first comment; Instagram gets a text carousel (cover + her full text across slides).
 
+- Stories (Nov 16): Leah wants a Story (1080x1920, build_stories.py) on every account with Stories (Leah IG/FB, Company 318 IG, Gathering FB) at the same time as each main post. Stories carry no text and no link; remind Leah to also use "Add to story" on the live post.
+
 ## Content library: available, used and on hold
 
 - OpusClip project P3092819oK37 (Leah, "The Love That Descends", 39 clips) and P3102619h9Vx (Chris, "Kings and
