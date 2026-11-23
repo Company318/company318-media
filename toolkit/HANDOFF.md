@@ -79,6 +79,11 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 
 - Stories (Nov 16): Leah wants a Story (1080x1920, build_stories.py) on every account with Stories (Leah IG/FB, Company 318 IG, Gathering FB) at the same time as each main post. Stories carry no text and no link; remind Leah to also use "Add to story" on the live post.
 
+## Voice by account (Nov 23, 2026)
+
+- Leah's personal FB/IG: her first-person voice is fine ("Chris and I").
+- Everything corporate (Company 318, The Gathering, Substack notes for the books): name both authors in the third person, never "Chris and I". Keep each book's author order (Apostolic Architecture: Leah Ramirez and Chris Berglund; Behold: Chris Berglund and Leah Ramirez). "A note from Pastor Leah:" posts on The Gathering stay in her voice.
+
 ## Captions written for shares (Nov 23, 2026)
 
 - Leah wants posts SHARED, not just commented on. Open with a line people would want to send to someone (a declaration about God, or her most quotable line), use her own story in her words (FB: longer personal text does best), and end on who He is instead of a question.
