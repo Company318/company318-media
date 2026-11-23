@@ -59,6 +59,8 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 
 ## Photos
 
+- Nov 23, 2026: Chris has NEW photos (toolkit/photos/chris.png color portrait, chris_bw.png black and white, chris_standing.png, chris_landscape.png). Use only these; chris_2026-10_old.png is retired. Gathering covers use the black-and-white portrait.
+
 - Nov 14, 2026: Leah has a NEW official photo (toolkit/photos/leah.png, seated; leah_closeup.png square). Use it on everything going forward. Its background was edited with AI, but Leah decided (Nov 16) not to use the AI label for her photo: leave isAiGenerated false. (Chris's photo posts still carry the label.) The old one is leah_2026-10_old.png; do not use it.
 
 - toolkit/photos has portraits of Leah and Chris (Oct/Nov 2026). Chris approved use. Chris's photo has an AI-edited background: set instagramData.isAiGenerated true on any Instagram post that uses it.
@@ -75,6 +77,11 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 - Leah's text-only Facebook posts perform well. Pattern: her text verbatim on FB with one graphic, link in first comment; Instagram gets a text carousel (cover + her full text across slides).
 
 - Stories (Nov 16): Leah wants a Story (1080x1920, build_stories.py) on every account with Stories (Leah IG/FB, Company 318 IG, Gathering FB) at the same time as each main post. Stories carry no text and no link; remind Leah to also use "Add to story" on the live post.
+
+## Endings (Nov 23, 2026)
+
+- Leah wants posts to leave people believing, never condemned for what they have not done. End on who He is and what He has done (for example "Our faith does not create His faithfulness. It lays hold of the Faithful One."). Avoid reflective prompts that imply the reader has failed ("what have you stopped expecting...").
+- Content split: Leah's personal FB/IG use only Leah's own portion of a shared message; Chris's portion can go on Company 318 and The Gathering, not on Leah's pages.
 
 ## Content library: available, used and on hold
 
