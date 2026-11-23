@@ -72,6 +72,7 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 - The Gathering: forest green #1f2c23, cream #f2ead9, brass #c49a5a, brick #a5583a. Sunday messages and church life. Text slides on cream with a forest-green bottom band reading THE GATHERING | LEAH RAMIREZ (or the speaker). Real people photos stay without text. Template: build_getup_g.py, build_faith.py.
 - Company 318: night sky (plum #2e1727, ivory #f4ecde, gold #d6b078).
 - Behold School: parchment, navy #1e2735, rust #a64f30, gold rules, crest.
+- Nov 23: Leah prefers SOFT photo covers: photo full-bleed at top fading into the background (no framed box), with the text starting a little below where the fade ends. Template: bs/build_note10.py softcover().
 - Leah personal: warm paper #f6efe3, olive #2f3324, copper #9a6a3c (her own writing not tied to a Sunday message).
 - Rule: the look follows where the content was born. A Sunday message from The Gathering keeps the Gathering look on every account (Leah IG/FB, Gathering FB, Company 318 IG); each caption explains the link (Company 318: "From Leah Ramirez's Sunday message at The Gathering in Colorado Springs...").
 - Leah's text-only Facebook posts perform well. Pattern: her text verbatim on FB with one graphic, link in first comment; Instagram gets a text carousel (cover + her full text across slides).
