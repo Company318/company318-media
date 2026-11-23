@@ -79,6 +79,12 @@ cannot fetch raw.githubusercontent.com itself, which is normal; Metricool can.
 
 - Stories (Nov 16): Leah wants a Story (1080x1920, build_stories.py) on every account with Stories (Leah IG/FB, Company 318 IG, Gathering FB) at the same time as each main post. Stories carry no text and no link; remind Leah to also use "Add to story" on the live post.
 
+## Captions written for shares (Nov 23, 2026)
+
+- Leah wants posts SHARED, not just commented on. Open with a line people would want to send to someone (a declaration about God, or her most quotable line), use her own story in her words (FB: longer personal text does best), and end on who He is instead of a question.
+- Instagram: one gentle send line at the end ("If someone you love..., send this to them."). Facebook: no share/tag/comment asks (Meta demotes engagement bait).
+- Carousels: put the most quotable line on the second-to-last slide, before the book note.
+
 ## Endings (Nov 23, 2026)
 
 - Leah wants posts to leave people believing, never condemned for what they have not done. End on who He is and what He has done (for example "Our faith does not create His faithfulness. It lays hold of the Faithful One."). Avoid reflective prompts that imply the reader has failed ("what have you stopped expecting...").
